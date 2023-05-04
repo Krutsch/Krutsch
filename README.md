@@ -25,7 +25,7 @@
   
 <h2 align="center">Sponsorship</h2>
   
-I am not yet where I want to be regarding my investment for open source. I would like to spend more of my time in projects which I use and which are used by the community. 
+I am not yet where I want to be regarding my investment for open source. I would like to spend more of my time in projects which I use and which are used by the community and also to give back by sponsoring others.
 
 <br />
 
