@@ -7,19 +7,25 @@
   
 <br />
 
-<h2 align="center">About me 🙏🏼</h2>
+<h2 align="center">About me</h2>
 
 - ⭐ I am a passionate Developer, working since 2016 professionally, studied Scientific Programming
 - ⭐ I care about performance, User and Developer experience to create short feedback loops, uniqueness and simplicity
 - ⭐ Currently learning more about Accessibility, Deep Learning and WebGPU 
-- ⭐ Learning by doing. I like to go fast and be experimental but also be up to date
+- ⭐ Learning by doing. I like to go fast and be experimental but also be up-to-date
 
 <br />
   
-<h2 align="center">💟 Open Source & Values</h2>
+<h2 align="center">Open Source & Values 🙏</h2>
 
 - I love to create things from scratch to understand the concepts and challenges underneath. Comparing solutions is fun!
 - Beside work and tech, I love to become a better person, someone who with a pure heart and just. It is more blessed to give than to receive.
+
+<br />
+  
+<h2 align="center">Sponsorship</h2>
+  
+I am not yet where I want to be regarding my investment for open source. I would like to spend more of my time in projects which I use and which are used by the community. 
 
 <br />
 
