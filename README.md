@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://krutsch.netlify.app//"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/FabianK"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://ko-fi.com/krutsch"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" /></a>&nbsp;
+<a href="https://github.com/sponsors/Krutsch"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" /></a>&nbsp;
 </div>
   
 <br />
