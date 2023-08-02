@@ -1,31 +1,32 @@
 <h1 align="center"><b>Hi there, I'm Fabian</h1>
 <div align="center">
-<a href="https://krutsch.netlify.app//"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://krutsch.netlify.app/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/fabian-krutsch/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://codepen.io/FabianK"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://github.com/sponsors/Krutsch"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" /></a>&nbsp;
 </div>
   
 <br />
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me</h2>but
 
 - ⭐ I am a passionate Developer, working since 2016 professionally, studied Scientific Programming
 - ⭐ I care about performance, User and Developer experience to create short feedback loops, uniqueness and simplicity
-- ⭐ Currently learning more about Accessibility, Deep Learning and WebGPU 
-- ⭐ Learning by doing. I like to go fast and be experimental but also be up-to-date
+- ⭐ I am currently learning more about Accessibility, Deep Learning and WebGPU 
+- ⭐ Learning by doing. I like to go fast and be experimental, but also be up-to-date
 
 <br />
   
 <h2 align="center">Open Source & Values 🙏</h2>
 
 - I love to create things from scratch to understand the concepts and challenges underneath. Comparing solutions is fun!
-- Beside work and tech, I love to become a better person, someone who with a pure heart and just. It is more blessed to give than to receive.
+- Besides work and tech, I love to become a better person, someone who has a pure heart and is just. It is more blessed to give than to receive.
 
 <br />
   
 <h2 align="center">Sponsorship</h2>
   
-I am not yet where I want to be regarding my investment for open source. I would like to spend more of my time in projects which I use and which are used by the community and also to give back by sponsoring others.
+I am not yet where I want to be regarding my investment in open source. I would like to spend more of my time on projects that I use and that are used by the community and also to give back by sponsoring others.
 
 <br />
 
