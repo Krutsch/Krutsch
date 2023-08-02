@@ -8,7 +8,7 @@
   
 <br />
 
-<h2 align="center">About me</h2>but
+<h2 align="center">About me</h2>
 
 - ⭐ I am a passionate Developer, working since 2016 professionally, studied Scientific Programming
 - ⭐ I care about performance, User and Developer experience to create short feedback loops, uniqueness and simplicity
