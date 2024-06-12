@@ -10,10 +10,10 @@
 
 <h2 align="center">About me</h2>
 
-- ⭐ I am a passionate Developer, working since 2016 professionally, studied Scientific Programming (B.Sc)
-- ⭐ I care about performance, User and Developer experience to create short feedback loops, uniqueness and simplicity
-- ⭐ I am currently learning more about Accessibility, Deep Learning and WebGPU 
-- ⭐ Learning by doing. I like to go fast and be experimental, but also be up-to-date
+ ⭐ I am a passionate Developer, working since 2016 professionally, studied Scientific Programming (B.Sc)<br>
+ ⭐ I care about performance, User and Developer experience to create short feedback loops, uniqueness and simplicity<br>
+ ⭐ I am currently learning more about Accessibility, Deep Learning and WebGPU<br>
+ ⭐ Learning by doing. I like to go fast and be experimental, but also be up-to-date
 
 <br />
   
