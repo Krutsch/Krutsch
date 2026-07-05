@@ -25,6 +25,6 @@ I build tools and libraries from scratch to deeply understand the underlying con
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krutsch&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krutsch&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Krutsch&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" />&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Krutsch&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </div>
